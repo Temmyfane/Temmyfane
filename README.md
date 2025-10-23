@@ -11,6 +11,7 @@ I'm a passionate Cloud Engineer with hands-on experience in building user-centri
 ## 🏆 Certifications
 - **AWS Certified Cloud Practitioner** - October 2023
 - **AWS Certified Solutions Architect** - March 2024
+- **AWS Certified Deverloper Associate** - September 2025
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [Temiloluwa Fanegan](http://www.linkedin.com/in/temiloluwa-fanegan)
