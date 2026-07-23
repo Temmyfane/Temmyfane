@@ -6,7 +6,7 @@ I design and ship **enterprise-grade cloud infrastructure** — from multi-accou
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
 - **AI-Powered Cloud Solutions** — Retrieval-Augmented Generation (RAG) systems using Amazon Bedrock that transform how enterprises search and manage documents
 - **Infrastructure as Code** — Reusable Terraform modules for multi-account AWS environments, cutting provisioning time by ~60%
@@ -34,7 +34,7 @@ I design and ship **enterprise-grade cloud infrastructure** — from multi-accou
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 | Certification | Year |
 |---|---|
@@ -45,23 +45,23 @@ I design and ship **enterprise-grade cloud infrastructure** — from multi-accou
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🤖 [enterprise-rag-assistant](https://github.com/Temmyfane/enterprise-rag-assistant)
 Production-ready RAG system using Amazon Bedrock — semantic search and intelligent Q&A over enterprise documents.
 `Amazon Bedrock` `Python` `Lambda` `Terraform` `DynamoDB`
 
-### 🏗 [aws-multi-account-terraform](https://github.com/Temmyfane/aws-multi-account-terraform)
+###  [aws-multi-account-terraform](https://github.com/Temmyfane/aws-multi-account-terraform)
 Reusable Terraform modules for AWS Organizations — multi-account, multi-AZ, with security baselines and Transit Gateway networking.
 `Terraform` `AWS Organizations` `Transit Gateway` `IAM` `GuardDuty`
 
-### ⚙️ [serverless-cicd-pipeline](https://github.com/Temmyfane/serverless-cicd-pipeline)
+###  [serverless-cicd-pipeline](https://github.com/Temmyfane/serverless-cicd-pipeline)
 Zero-downtime serverless deployment pipeline with blue/green deploys using Lambda, API Gateway, and GitHub Actions.
 `GitHub Actions` `Lambda` `Terraform` `Python` `API Gateway`
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Temiloluwa_Fanegan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/temiloluwa-fanegan/)
