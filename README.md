@@ -15,7 +15,7 @@ I design and ship **enterprise-grade cloud infrastructure** — from multi-accou
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Cloud & Infrastructure**
 `AWS` `EC2` `Lambda` `S3` `DynamoDB` `RDS` `VPC` `Transit Gateway` `CloudFormation` `Amazon Bedrock`
@@ -47,7 +47,7 @@ I design and ship **enterprise-grade cloud infrastructure** — from multi-accou
 
 ##  Featured Projects
 
-### 🤖 [enterprise-rag-assistant](https://github.com/Temmyfane/enterprise-rag-assistant)
+### [enterprise-rag-assistant](https://github.com/Temmyfane/enterprise-rag-assistant)
 Production-ready RAG system using Amazon Bedrock — semantic search and intelligent Q&A over enterprise documents.
 `Amazon Bedrock` `Python` `Lambda` `Terraform` `DynamoDB`
 
