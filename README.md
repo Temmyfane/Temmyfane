@@ -8,10 +8,10 @@ I design and ship **enterprise-grade cloud infrastructure** — from multi-accou
 
 ##  What I Build
 
-- **AI-Powered Cloud Solutions** — Retrieval-Augmented Generation (RAG) systems using Amazon Bedrock that transform how enterprises search and manage documents
+- **AI-Powered Cloud Solutions**: Retrieval-Augmented Generation (RAG) systems using Amazon Bedrock that transform how enterprises search and manage documents
 - **Infrastructure as Code** — Reusable Terraform modules for multi-account AWS environments, cutting provisioning time by ~60%
-- **Disaster Recovery Architecture** — DMZ infrastructure with Transit Gateway, multi-AZ networking, cross-account CI/CD, and automated certificate management
-- **Cost Optimization** — AWS Well-Architected Reviews delivering 20–30% reduction in cloud operational costs
+- **Disaster Recovery Architecture**: DMZ infrastructure with Transit Gateway, multi-AZ networking, cross-account CI/CD, and automated certificate management
+- **Cost Optimization**: AWS Well-Architected Reviews delivering 20–30% reduction in cloud operational costs
 
 ---
 
@@ -48,11 +48,11 @@ I design and ship **enterprise-grade cloud infrastructure** — from multi-accou
 ##  Featured Projects
 
 ### [enterprise-rag-assistant](https://github.com/Temmyfane/enterprise-rag-assistant)
-Production-ready RAG system using Amazon Bedrock — semantic search and intelligent Q&A over enterprise documents.
+Production-ready RAG system using Amazon Bedrock, semantic search and intelligent Q&A over enterprise documents.
 `Amazon Bedrock` `Python` `Lambda` `Terraform` `DynamoDB`
 
 ###  [aws-multi-account-terraform](https://github.com/Temmyfane/aws-multi-account-terraform)
-Reusable Terraform modules for AWS Organizations — multi-account, multi-AZ, with security baselines and Transit Gateway networking.
+Reusable Terraform modules for AWS Organizations, multi-account, multi-AZ, with security baselines and Transit Gateway networking.
 `Terraform` `AWS Organizations` `Transit Gateway` `IAM` `GuardDuty`
 
 ###  [serverless-cicd-pipeline](https://github.com/Temmyfane/serverless-cicd-pipeline)
