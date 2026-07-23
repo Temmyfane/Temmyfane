@@ -2,14 +2,14 @@
 
 ### Cloud Solutions & DevOps Engineer · AWS Certified (3x) · Amazon Bedrock & RAG Specialist
 
-I design and ship **enterprise-grade cloud infrastructure** — from multi-account AWS automation with Terraform to AI-powered document systems using Amazon Bedrock. Based in Lagos, Nigeria.
+I design and ship **enterprise-grade cloud infrastructure**, from multi-account AWS automation with Terraform to AI-powered document systems using Amazon Bedrock. Based in Lagos, Nigeria.
 
 ---
 
 ##  What I Build
 
 - **AI-Powered Cloud Solutions**: Retrieval-Augmented Generation (RAG) systems using Amazon Bedrock that transform how enterprises search and manage documents
-- **Infrastructure as Code** — Reusable Terraform modules for multi-account AWS environments, cutting provisioning time by ~60%
+- **Infrastructure as Code**: Reusable Terraform modules for multi-account AWS environments, cutting provisioning time by ~60%
 - **Disaster Recovery Architecture**: DMZ infrastructure with Transit Gateway, multi-AZ networking, cross-account CI/CD, and automated certificate management
 - **Cost Optimization**: AWS Well-Architected Reviews delivering 20–30% reduction in cloud operational costs
 
